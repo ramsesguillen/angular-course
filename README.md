@@ -11,4 +11,8 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ng generate component dir/name-comp
   or
 ng g c dir/name-comp
+
+ng generate module dir/name-module
+  or
+ng g m dir/name-module
 ```
